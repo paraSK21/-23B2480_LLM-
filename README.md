@@ -1,5 +1,3 @@
-Project Notes: When Large Language Model Meets Web Dev
-Natural Language Processing
 Tokenization
 Tokenization is the process of breaking down text into smaller units called tokens. These tokens could be words, phrases, or even individual characters, depending on the requirements of the task. Tokenization helps in preparing text for further analysis and processing.
 
